@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.641" height="17.641" viewBox="0 0 17.641 17.641">
+  <g id="coin" transform="translate(0.15 0.15)">
+    <g id="Group_9548" data-name="Group 9548" transform="translate(0)">
+      <g id="Group_9547" data-name="Group 9547">
+        <path id="Path_1050" data-name="Path 1050" d="M14.8,2.54A8.671,8.671,0,0,0,2.54,14.8,8.671,8.671,0,0,0,14.8,2.54ZM8.671,16.325a7.655,7.655,0,1,1,7.655-7.655A7.663,7.663,0,0,1,8.671,16.325Z" transform="translate(0 0)" fill="#fd1916" stroke="#fd1916" stroke-width="0.3"/>
+      </g>
+    </g>
+    <g id="Group_9550" data-name="Group 9550" transform="translate(5.986 3.265)">
+      <g id="Group_9549" data-name="Group 9549">
+        <path id="Path_1051" data-name="Path 1051" d="M179.963,101.3h-1.088a1.124,1.124,0,1,1,0-2.249h2.177a.508.508,0,0,0,0-1.016h-1.124V96.909a.508.508,0,0,0-1.016,0v1.124h-.036a2.141,2.141,0,1,0,0,4.281h1.088a1.124,1.124,0,1,1,0,2.249h-2.177a.508.508,0,0,0,0,1.016h1.124V106.7a.508.508,0,0,0,1.016,0V105.58h.036a2.141,2.141,0,0,0,0-4.281Z" transform="translate(-176.734 -96.401)" fill="#fd1916" stroke="#fd1916" stroke-width="0.3"/>
+      </g>
+    </g>
+  </g>
+</svg>
